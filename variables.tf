@@ -6,6 +6,6 @@ variable "region" {
   type = string
 }
 
-variable "group_name" {
+variable "name" {
   type = string
 }
